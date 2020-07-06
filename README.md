@@ -18,4 +18,4 @@ Marcy Vernon [@MarcyVernon](https://twitter.com/MarcyVernon)
 
 **License:** \
 "My Father's Dragon" app is under the MIT license. See [LICENSE](/LICENSE) for more information.
-"My Father's Dragon" literary work is public domain in the US obtained via Project Gutenberg tm. See [Literary Work License](/Literary Work License) for more information.
+"My Father's Dragon" literary work is public domain in the US obtained via Project Gutenberg tm. See [Literary Work License](/Literary20%Work20%License) for more information.
