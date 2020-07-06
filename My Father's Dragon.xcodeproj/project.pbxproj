@@ -20,6 +20,7 @@
 		93C6051124B143010067140D /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93C6051024B143010067140D /* Media.xcassets */; };
 		93C6051324B17DF20067140D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C6051224B17DF20067140D /* Constants.swift */; };
 		93E938BC24B2E4F2003778BE /* Literary Work LIcense in Resources */ = {isa = PBXBuildFile; fileRef = 93E938BB24B2E4F2003778BE /* Literary Work LIcense */; };
+		93E938BE24B2EAF3003778BE /* MyFathersDragon.gif in Resources */ = {isa = PBXBuildFile; fileRef = 93E938BD24B2EAF3003778BE /* MyFathersDragon.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		93C6051024B143010067140D /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		93C6051224B17DF20067140D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		93E938BB24B2E4F2003778BE /* Literary Work LIcense */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Literary Work LIcense"; sourceTree = "<group>"; };
+		93E938BD24B2EAF3003778BE /* MyFathersDragon.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = MyFathersDragon.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 		93C604FE24B133730067140D /* GitHub-Images */ = {
 			isa = PBXGroup;
 			children = (
+				93E938BD24B2EAF3003778BE /* MyFathersDragon.gif */,
 			);
 			path = "GitHub-Images";
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				93C604FB24B1336B0067140D /* LICENSE in Resources */,
 				93E938BC24B2E4F2003778BE /* Literary Work LIcense in Resources */,
 				93C6050824B141BF0067140D /* Launch Screen.storyboard in Resources */,
+				93E938BE24B2EAF3003778BE /* MyFathersDragon.gif in Resources */,
 				93C6051124B143010067140D /* Media.xcassets in Resources */,
 				93C604EE24B133580067140D /* Main.storyboard in Resources */,
 			);
