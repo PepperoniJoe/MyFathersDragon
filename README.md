@@ -3,13 +3,14 @@
 [![Language](https://img.shields.io/badge/swift-5.0-orange.svg)](https://developer.apple.com/swift)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://mit-license.org)
 
-A page view controller app using the page curl feature displaying a Project Gutenberg public domain work.
+A page view controller app using the page curl feature displaying a public domain children's book called My Father's Dragon. 
 
 <img src="GitHub-Images/MyFathersDragon.gif" width="300">
 
 
 **Technical Info:** \
 Xcode 12 project written in Swift 5 for iOS 14
+UIPageViewController
 
 
 **Author:** \
