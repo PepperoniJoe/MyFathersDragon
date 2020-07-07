@@ -7,6 +7,8 @@ A page view controller app using the page curl feature displaying a public domai
 
 <img src="GitHub-Images/MyFathersDragon.gif" width="300">
 
+**Content:** \
+My Father's Dragon, a 1948 Newberry Honor book
 
 **Technical Info:** \
 Xcode 12 project written in Swift 5 for iOS 14\
