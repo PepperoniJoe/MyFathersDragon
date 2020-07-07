@@ -9,7 +9,7 @@ A page view controller app using the page curl feature displaying a public domai
 
 
 **Technical Info:** \
-Xcode 12 project written in Swift 5 for iOS 14
+Xcode 12 project written in Swift 5 for iOS 14\
 UIPageViewController
 
 
