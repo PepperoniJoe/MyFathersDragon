@@ -56,10 +56,10 @@
 		93C604DA24B133580067140D = {
 			isa = PBXGroup;
 			children = (
-				93C604FE24B133730067140D /* GitHub-Images */,
-				93C604FA24B1336B0067140D /* LICENSE */,
-				93E938BB24B2E4F2003778BE /* Literary Work LIcense */,
 				93C604FC24B1336F0067140D /* README.md */,
+				93E938BB24B2E4F2003778BE /* Literary Work LIcense */,
+				93C604FA24B1336B0067140D /* LICENSE */,
+				93C604FE24B133730067140D /* GitHub-Images */,
 				93C604E524B133580067140D /* My Father's Dragon */,
 				93C604E424B133580067140D /* Products */,
 			);
@@ -367,13 +367,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = T97DA5EFXT;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "My Father's Dragon/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "dev.MarcyVernon.My-Father-s-Dragon";
+				PRODUCT_BUNDLE_IDENTIFIER = "dev.test.My-Father-s-Dragon";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -386,13 +386,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = T97DA5EFXT;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "My Father's Dragon/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "dev.MarcyVernon.My-Father-s-Dragon";
+				PRODUCT_BUNDLE_IDENTIFIER = "dev.test.My-Father-s-Dragon";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
