@@ -15,7 +15,7 @@ Xcode 12 project written in Swift 5 for iOS 14\
 UIPageViewController
 
 **See Also:** \
-[Quickies - an assortment of iOS apps](https://github.com/PepperoniJoe/Quickies)\
+[Quickies - a variety of example iOS apps](https://github.com/PepperoniJoe/Quickies)\
  [Make Icons Swiftly - used to generate app icon sets
  ](https://github.com/PepperoniJoe/Make-Icons-Swiftly)
 
